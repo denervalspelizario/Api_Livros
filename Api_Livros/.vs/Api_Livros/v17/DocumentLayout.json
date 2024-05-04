@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\repositorio\\Api_Livros\\Api_Livros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27BE363C-8FA8-42DC-8B12-E92869E9850F}|Api_Livros\\Api_Livros.csproj|d:\\repositorio\\api_livros\\api_livros\\api_livros\\documentacao\\doc1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27BE363C-8FA8-42DC-8B12-E92869E9850F}|Api_Livros\\Api_Livros.csproj|solutionrelative:api_livros\\documentacao\\doc1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27BE363C-8FA8-42DC-8B12-E92869E9850F}|Api_Livros\\Api_Livros.csproj|d:\\repositorio\\api_livros\\api_livros\\api_livros\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BE363C-8FA8-42DC-8B12-E92869E9850F}|Api_Livros\\Api_Livros.csproj|solutionrelative:api_livros\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BE363C-8FA8-42DC-8B12-E92869E9850F}|Api_Livros\\Api_Livros.csproj|d:\\repositorio\\api_livros\\api_livros\\api_livros\\documentacao\\doc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BE363C-8FA8-42DC-8B12-E92869E9850F}|Api_Livros\\Api_Livros.csproj|solutionrelative:api_livros\\documentacao\\doc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BE363C-8FA8-42DC-8B12-E92869E9850F}|Api_Livros\\Api_Livros.csproj|d:\\repositorio\\api_livros\\api_livros\\api_livros\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BE363C-8FA8-42DC-8B12-E92869E9850F}|Api_Livros\\Api_Livros.csproj|solutionrelative:api_livros\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BE363C-8FA8-42DC-8B12-E92869E9850F}|Api_Livros\\Api_Livros.csproj|d:\\repositorio\\api_livros\\api_livros\\api_livros\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BE363C-8FA8-42DC-8B12-E92869E9850F}|Api_Livros\\Api_Livros.csproj|solutionrelative:api_livros\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27BE363C-8FA8-42DC-8B12-E92869E9850F}|Api_Livros\\Api_Livros.csproj|d:\\repositorio\\api_livros\\api_livros\\api_livros\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,11 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "D:\\repositorio\\Api_Livros\\Api_Livros\\Api_Livros\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "Api_Livros\\Controllers\\AutorController.cs",
+              "ToolTip": "D:\\repositorio\\Api_Livros\\Api_Livros\\Api_Livros\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "Api_Livros\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:54:13.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAutorInterface.cs",
+              "DocumentMoniker": "D:\\repositorio\\Api_Livros\\Api_Livros\\Api_Livros\\Services\\Autor\\IAutorInterface.cs",
+              "RelativeDocumentMoniker": "Api_Livros\\Services\\Autor\\IAutorInterface.cs",
+              "ToolTip": "D:\\repositorio\\Api_Livros\\Api_Livros\\Api_Livros\\Services\\Autor\\IAutorInterface.cs",
+              "RelativeToolTip": "Api_Livros\\Services\\Autor\\IAutorInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:45:59.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "D:\\repositorio\\Api_Livros\\Api_Livros\\Api_Livros\\Services\\Autor\\AutorService.cs",
+              "RelativeDocumentMoniker": "Api_Livros\\Services\\Autor\\AutorService.cs",
+              "ToolTip": "D:\\repositorio\\Api_Livros\\Api_Livros\\Api_Livros\\Services\\Autor\\AutorService.cs",
+              "RelativeToolTip": "Api_Livros\\Services\\Autor\\AutorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:45:15.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Doc2.cs",
+              "DocumentMoniker": "D:\\repositorio\\Api_Livros\\Api_Livros\\Api_Livros\\Documentacao\\Doc2.cs",
+              "RelativeDocumentMoniker": "Api_Livros\\Documentacao\\Doc2.cs",
+              "ToolTip": "D:\\repositorio\\Api_Livros\\Api_Livros\\Api_Livros\\Documentacao\\Doc2.cs",
+              "RelativeToolTip": "Api_Livros\\Documentacao\\Doc2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:42:35.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\repositorio\\Api_Livros\\Api_Livros\\Api_Livros\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Api_Livros\\Data\\AppDbContext.cs",
@@ -31,19 +95,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T15:01:04.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Doc1.cs",
-              "DocumentMoniker": "D:\\repositorio\\Api_Livros\\Api_Livros\\Api_Livros\\Documentacao\\Doc1.cs",
-              "RelativeDocumentMoniker": "Api_Livros\\Documentacao\\Doc1.cs",
-              "ToolTip": "D:\\repositorio\\Api_Livros\\Api_Livros\\Api_Livros\\Documentacao\\Doc1.cs",
-              "RelativeToolTip": "Api_Livros\\Documentacao\\Doc1.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADcAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T14:34:43.877Z",
               "EditorCaption": ""
             }
           ]

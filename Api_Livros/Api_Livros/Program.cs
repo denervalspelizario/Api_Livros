@@ -1,4 +1,5 @@
 using Api_Livros.Data;
+using Api_Livros.Services.Autor;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +11,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+//[3] Estou indicando que Os metodos de IAutorInterface estão também em AutorService
+builder.Services.AddScoped<IAutorInterface, AutorService>();
 
 // [2] LINKAGEM DO ConnectionStrings do appsettings.json com o AppDbcontext
 builder.Services.AddDbContext<AppDbContext>(options =>
